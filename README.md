@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maleeshathedev&label=Profile%20views&color=0e75b6&style=flat" alt="maleeshathedev" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/maleeshathedev](https://github.com/maleeshathedev)
 
 - 💬 Ask me about **HTML,CSS,Javascript**
 
