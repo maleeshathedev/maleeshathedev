@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maleesha Kushan</h1>
-<h3 align="center">Front end developer | Software Engineering Undergraduate</h3>
+<h3 align="center">Front End Developer | Software Engineering Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maleeshathedev&label=Profile%20views&color=0e75b6&style=flat" alt="maleeshathedev" /> </p>
 
@@ -27,8 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshathedev&show_icons=true&locale=en&layout=compact" alt="maleeshathedev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maleeshathedev&show_icons=true&theme=dracula&locale=en" alt="maleeshathedev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maleeshathedev&show_icons=true&locale=en" alt="maleeshathedev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maleeshathedev&theme=dark" alt="maleeshathedev" /></p>
-
-
