@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maleeshathedev&label=Profile%20views&color=0e75b6&style=flat" alt="maleeshathedev" /> </p>
 
 
-- 💬 Ask me about **HTML,CSS,Javascript**
-
 - 📫 How to reach me **maleeshathedev@gmail.com**
 
 ### Blogs posts
