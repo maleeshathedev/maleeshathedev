@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maleesha</h1>
+<h1 align="center">Hi 👋, I'm M.G.M. Kushan</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maleeshathedev&label=Profile%20views&color=0e75b6&style=flat" alt="maleeshathedev" /> </p>
